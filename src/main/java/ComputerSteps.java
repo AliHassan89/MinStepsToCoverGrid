@@ -25,6 +25,9 @@ Move from (4, 6) -> (3, 5) -> (2, 4) -> (1, 3) ->
 (1, 2) -> (2, 3) -> (3, 4) ->
 (4, 5) -> (5, 6) -> (6, 7) ->
 (7, 8) -> (8, 9) -> (9, 10) -> (10, 11) -> (10, 12)
+
+Time complexity is 
+O(N), where N is the number of steps.
  */
 
 package main.java;
